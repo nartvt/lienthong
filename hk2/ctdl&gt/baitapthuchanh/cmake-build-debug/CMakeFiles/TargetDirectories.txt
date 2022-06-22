@@ -1,0 +1,3 @@
+/Users/nartvt/learn/lienthong/hk2/ctdl&gt/baitapthuchanh/cmake-build-debug/CMakeFiles/baitapthuchanh.dir
+/Users/nartvt/learn/lienthong/hk2/ctdl&gt/baitapthuchanh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nartvt/learn/lienthong/hk2/ctdl&gt/baitapthuchanh/cmake-build-debug/CMakeFiles/rebuild_cache.dir

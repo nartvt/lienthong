@@ -33,25 +33,4 @@
 - Overloading: các phương thức có cùng tên nhưng khác tham số hoặc khác tham số và khác kiểu trả về
     + public string tiengkeu(a int, b int), public string tiengkeu(a int, b int, int c), 2 phương thức này cùng tên nhưng khác tham số , 1 cái 2, 1 cái 3 tham số truyền vào
 
- ### Internet & Công nghệ web 
-- Tech: 
- - HTML
- - HTML5
- - CSS
- - CSS3
- - BOOTSTRAP -  4 buổi
- - JQUERY
- - PHP
- - MySQL
-- Cuối kì thì trên giấy
-- Web tham khảo trong quá trình học: w3schools.com
-- IDE lập trình: Visual Studio Code(e đọc thấy cái này nhẹ nhất, nhẹ hơn netbean thầy dùng, với cài được nhiều plugin)
-- Notes:
-  + Host để đưa website lên chạy
-  + domain: để truy cập vào 
-  + URL: link trang web 
-  + web tĩnh: web không có cơ sở dữ liệu
-  + web động: có cơ sở dữ liệu
-
-### Cấu trúc dữ liệu và giải thuật
-- 
+    
