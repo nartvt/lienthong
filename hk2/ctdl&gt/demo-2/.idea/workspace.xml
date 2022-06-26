@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6ed4382-c81e-4af6-9648-1f72dfc71256" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../TRÂM _HK2- NĂM 2021 -2022 - TIẾN ĐỘ HỌC CITD KHÓA MỚI ĐỢT 2,3.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../../TRÂM _HK2- NĂM 2021 -2022 - TIẾN ĐỘ HỌC CITD KHÓA MỚI ĐỢT 2,3.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/.idea/b3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3cd8493fc5d9bf352ac6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-572c9942301c07d0009e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-93c97b449a031f29404e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/.cmake/api/v1/reply/index-2022-06-21T12-14-02-0612.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/.cmake/api/v1/reply/target-b3-Debug-7ddabd5bc64b08428d94.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-b1703aa924205f16f86b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/.idea/baitapthuchanh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.cmake/api/v1/reply/cache-v2-192670f50b85360daf9a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-cd651fa948b04d611a19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c14389bb303f95679ab9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.cmake/api/v1/reply/index-2022-06-14T11-55-09-0640.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.cmake/api/v1/reply/target-baitapthuchanh-Debug-7c5d03bbb8c013b2b84a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-b1703aa924205f16f86b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/baitapthuchanh.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/baitapthuchanh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthuchanh/main.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AxPkVj6MhxtcyxQIZIJ1DNRape" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nartvt/learn/lienthong/hk2/ctdl&amp;gt/demo-2&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6ed4382-c81e-4af6-9648-1f72dfc71256" name="Changes" comment="" />
+      <created>1655948405732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655948405732</updated>
+      <workItem from="1655948406809" duration="37000" />
+      <workItem from="1655949914797" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

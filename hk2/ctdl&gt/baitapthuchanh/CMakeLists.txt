@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
-project(baitapthuchanh C)
+project(baitapthuchanh)
 
-set(CMAKE_C_STANDARD 99)
+set(CMAKE_CXX_STANDARD 98)
 
-add_executable(baitapthuchanh main.c)
+add_executable(baitapthuchanh main.cpp)
